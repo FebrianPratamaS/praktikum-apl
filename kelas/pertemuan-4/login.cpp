@@ -20,7 +20,6 @@ int main(){
     if (!login("Febraian","Rizal")){
         cout << "Login Gagal!" << endl;
         return 0;
-    }
 
     cout << "Program berjalan, login berhasil!" << endl;
     return 0;
